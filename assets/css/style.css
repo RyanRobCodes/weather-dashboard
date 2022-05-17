@@ -1,0 +1,85 @@
+header {
+  font-size: 30px;
+  text-align: center;
+  background: linear-gradient(45deg,rgb(0, 174, 255),rgb(55, 0, 255));
+  color: white;
+  font-family: sans-serif;
+
+} 
+
+label {
+  display: inline-block;
+}
+
+input,
+select,
+textarea,
+button {
+  margin: 0;
+
+}
+
+.btn {
+  text-align: center;
+  display: inline-block;
+  padding: 0.5rem 1.2rem;
+  margin: 0;
+  font-size: 1rem;
+  border-radius: 0.3 rem;
+  border: 1px solid transparent;
+  outline: none;
+  color: black;
+  background-color: wheat;
+}
+
+.btn:hover {
+  background-color: white;
+}
+
+.search-button {
+  margin: 0.5rem;
+  width: 100%;
+  background-color: blue;
+  color: white;
+
+}
+
+#search-field {
+  display: block;
+  width: 200px;
+  height: 25px;
+  margin-bottom: 6px;
+
+}
+
+#search {
+  /* background-color: rgb(0, 162, 255);
+  color: white;
+  border: none;
+  border-radius: 5px;
+  width: 208px;
+  height: 30px; 
+} */
+
+/* hr {
+  display: block;
+  background-color: rgba(128, 128, 128, 0.836);
+  width:205px;
+  height:2px;
+  margin-left: 0;
+  margin-bottom: 0;
+
+} */
+
+/* .btn {
+  width: 205px;
+  height: 25px;
+  display:block;
+  margin-top: 15px;
+}
+
+.city-buttons {
+  display:flex;
+  flex-direction: column;
+  justify-content: space-between;
+} */
